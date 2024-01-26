@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Hammadullah Jan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -20,9 +18,7 @@
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
-<video width="320" height="240" alt="A video of a male programmer doing coding work">
-  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-doing-coding-work-9560195-7793573.mp4" type="video/mp4">
-</video>
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b8621d221ed49bf3bf0abcb7e7efee87%3frik%3d%252fVxsz46vZmIy9w%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=animated+coding+gif&simid=608020121121265380&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=8&itb=0">
 <p align="left">
 <a href="https://twitter.com/codeeham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeeham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hammadullah-jan-711a86274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadullah-jan-711a86274" height="30" width="40" /></a>
@@ -36,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeehammad&show_icons=true&locale=en" alt="codeehammad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeehammad&" alt="codeehammad" /></p>
-
