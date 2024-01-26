@@ -1,7 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Coding Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding&psig=AOvVaw1YjKpw2FxVOLtXn3rgUQSb&ust=1706391527514000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCo0fmB_IMDFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi 👋, I'm Hammadullah Jan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F68%2Ff3%2Fff%2F68f3ff8ddc1699f6234abee4e1d58dd9.gif&tbnid=gByrxxrjJL0UhM&vet=12ahUKEwi-zYOc_fuDAxWLfqQEHc_yAQEQMygjegUIARDfAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F449304500298392085%2F&docid=mMQ_3osABYAomM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwi-zYOc_fuDAxWLfqQEHc_yAQEQMygjegUIARDfAQ">
+![UI Developer GIF](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeehammad&label=Profile%20views&color=0e75b6&style=flat" alt="codeehammad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeehammad" alt="codeehammad" /></a> </p>
