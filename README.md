@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeehammad&show_icons=true&locale=en" alt="codeehammad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeehammad&" alt="codeehammad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.her okuapp.com/?user=codeehammad&" alt="codeehammad" /></p>
